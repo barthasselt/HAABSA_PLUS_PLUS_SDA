@@ -1,0 +1,8 @@
+pandas
+datasets
+transformers
+torch-xla
+cloud-tpu-client
+transformers datasets
+transformers[torch] accelerate -U
+absl-py tensorflow transformers
